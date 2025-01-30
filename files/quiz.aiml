@@ -19,7 +19,7 @@
     </category>
 	
 	<category>
-	    <pattern>SOFTWARE</pattern>
+	    <pattern>HARDWARE</pattern>
 	    <template>
 	        Great! Which of these describes your interests more?
 	        <button>
@@ -34,7 +34,7 @@
     </category>
     
     <category>
-        <pattern>HARDWARE</pattern>
+        <pattern>SOFTWARE</pattern>
         <template>
             Great. Which of these most describes your interests?
             <button>
